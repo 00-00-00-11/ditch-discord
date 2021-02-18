@@ -1,0 +1,16 @@
+.section-unverified {
+    color: rgb(97, 0, 0);
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+
+    border: 1px solid #1D1D11;
+    border-radius: 2px;
+
+    background-color: rgba(222, 26, 26, 0.493);
+
+    padding: 2.5%;
+    margin: 12%;
+    margin-top: 10%;
+    margin-left: 33.5%;
+    margin-right: 33.5%;
+}
